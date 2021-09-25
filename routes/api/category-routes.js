@@ -46,25 +46,17 @@ router.post('/', async (req, res) => {
   }
 });
 
-router.put ('/:id', (req, res) => {
+router.put('/:id', (req, res) => {
   // update a category by its `id` value
-  Category.update(
-    {
-      category_name: req.body.category_name,
+  Category.update(req.body, {
+    where: {
+      id: req.params.id,
     },
-    {
-      
-      where: {
-        id: req.params.id,
-      },
-    }
-  )
-  .then((updatedCategory) => {
-    res.json(updatedCategory);
   })
+  .then((updatedCategory) => res.json(updatedCategory))
   .catch((err) => {
-    console.log(err);
-    res.json(err);
+    // console.log(err);
+    res.status(400).json(err);
   });
 });
 
