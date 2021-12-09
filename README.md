@@ -12,8 +12,6 @@ For the last 10 years, e-commerce have grown rapidly and is one of the largest s
 
 - [Technologies](#Technologies)
 
-- [Usage](#Usage)
-
 - [Walk Through Video](#WalkThroughVideo)
 
 
@@ -33,13 +31,11 @@ MySQL2
 Sequelize
 Dotenv
 
-## Usage
+## Walk Through Video
+ https://www.awesomescreenshot.com/video/6355307
+
 ![Desktop screensh (1)](https://user-images.githubusercontent.com/82126894/140874208-d6ee65fa-1cf2-4d1d-8b67-9d7d5d9983c2.png)
 
-
-
-## Walk Through Video
- https://www.awesomescreenshot.com/video/5940140
 
 ## Contact Information 
 email me at : khanhtruong_1992@yahoo.com 
