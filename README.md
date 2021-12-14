@@ -32,8 +32,8 @@ Sequelize
 Dotenv
 
 ## Walk Through Video
- https://www.awesomescreenshot.com/video/6355307
 
+https://watch.screencastify.com/v/IeytesFm01wCa2ViGywT
 ![Desktop screensh (1)](https://user-images.githubusercontent.com/82126894/140874208-d6ee65fa-1cf2-4d1d-8b67-9d7d5d9983c2.png)
 
 
