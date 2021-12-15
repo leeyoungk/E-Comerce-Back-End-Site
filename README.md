@@ -33,7 +33,7 @@ Dotenv
 
 ## Walk Through Video
 
-https://watch.screencastify.com/v/6rb2Vk4D6Td5a4LyKWpD
+https://www.youtube.com/watch?v=f3yywANSCn8
 ![Desktop screensh (1)](https://user-images.githubusercontent.com/82126894/140874208-d6ee65fa-1cf2-4d1d-8b67-9d7d5d9983c2.png)
 
 
